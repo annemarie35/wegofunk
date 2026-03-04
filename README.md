@@ -29,3 +29,6 @@ Voici les options que j’ai identifiées :
 3. Exploiter les fichiers XML de sauvegarde fournis par WMaker, qui semblent être la seule solution d’export complète proposée.
    - intéressant car contient tous les types de publication sur un laps de temps donné
    - il y a des méta données différentes ou complémentaires de celles récupérées par l'api wmaker
+
+Une version "scrappée" était disponible, ainsi que les versions successives, sur [https://funk.free.fr/](https://funk.free.fr/). C'était un instanné pris en 2012. Hélas, free a supprimé récemment cet accès.
+Je suis donc partie sur les pistes 2 et 3. À savoir, récupérer un maximum de données.
