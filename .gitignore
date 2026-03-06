@@ -6,3 +6,9 @@
 
 # RAW DATA
 data/**
+
+# AI
+.claude/**
+
+# NODE_MODULES
+node_modules
